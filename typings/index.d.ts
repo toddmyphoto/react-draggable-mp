@@ -1,5 +1,5 @@
-declare module 'react-draggable' {
-  import * as React from 'react';
+import * as React from 'react';
+declare module 'react-draggable-mp' {
 
   export interface DraggableBounds {
     left: number
